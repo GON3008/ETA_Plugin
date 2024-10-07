@@ -6,8 +6,8 @@ defined('PLUGINPATH') or exit('No direct script access allowed');
   Description: Help we are build more function Estimate time for task and tickets inside RISE CRM.
   Version: 1.0
   Requires at least: 3.6
-  Author: Vũ Gia Software Việt name
-  Author URL: https://vugiasoftware.com/
+  Author: GON 3008
+  Author URL: //
  */
 
 use App\Controllers\Security_Controller;
